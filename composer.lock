@@ -1215,12 +1215,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/johnpbloch/wordpress-core.git",
-                "reference": "16f1abc05a194ac4e5f8c1bb4e0a0259469b2246"
+                "reference": "bf083fe2944a4683461d496086ec22319cd8bdf1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/johnpbloch/wordpress-core/zipball/16f1abc05a194ac4e5f8c1bb4e0a0259469b2246",
-                "reference": "16f1abc05a194ac4e5f8c1bb4e0a0259469b2246",
+                "url": "https://api.github.com/repos/johnpbloch/wordpress-core/zipball/bf083fe2944a4683461d496086ec22319cd8bdf1",
+                "reference": "bf083fe2944a4683461d496086ec22319cd8bdf1",
                 "shasum": ""
             },
             "require": {
